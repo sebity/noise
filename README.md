@@ -2,6 +2,10 @@ Noise
 =====
 A Simplex Noise Generator in Common Lisp.
 
+## Features
+
+- 1D, 2D and 3D Simplex Noise Algorithms
+
 ## Usage
 
 ```lisp
